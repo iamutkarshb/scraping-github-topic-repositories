@@ -62,5 +62,5 @@ convert to Pandas Dataframe
     - Verify the information in the CSV files by reading them back using [Pandas](https://pandas.pydata.org).
 
 **Notes**
-Refer to the Jupyter notebook, documentation for each code has been added. 
+Refer to the Jupyter notebook, documentation added. 
 The Final code comprise of all the code we have done above and also scrapping of the top 25 repositories out of a topic page.
